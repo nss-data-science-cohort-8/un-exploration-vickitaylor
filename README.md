@@ -27,7 +27,7 @@ In this project, you'll be doing some exploratory analysis on two country-level 
 
 8. How many countries are represented in this dataset? Which countries are least represented in the dataset? Why do you think these countries have so few observations?
 
-9. Create a new dataframe by subsetting `gdp_df` to just the year 2021. Call this new dataframe `gdp_20121`.
+9. Create a new dataframe by subsetting `gdp_df` to just the year 2021. Call this new dataframe `gdp_2021`.
 
 10. Use `.describe()` to find the summary statistics for GDP per capita in 2021. 
 
@@ -41,7 +41,7 @@ In this project, you'll be doing some exploratory analysis on two country-level 
 
 15. How many countries experienced a negative percent change in GDP per capita from 1990 to 2021?
 
-16. Which country had the highest % change in GDP per capita? Create a line plot showing this country's GDP per capita for all years from 1990 to 2018. Create another showing the country with the second highest % change in GDP. How do the trends in these countries compare?  
+16. Which country had the highest % change in GDP per capita? Create a line plot showing this country's GDP per capita for all years from 1990 to 2022. Create another showing the country with the second highest % change in GDP. How do the trends in these countries compare?  
 **Bonus:** Put both line charts on the same plot.
 
 17. Read in continents.csv contained in the `data` folder into a new dataframe called `continents`. We will be using this dataframe to add a new column to our dataset.
